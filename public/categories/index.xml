@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Wat bakt marion</title>
+    <link>http://www.watbaktmarion.nl/categories/</link>
+    <description>Recent content in Categories on Wat bakt marion</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 24 Jun 2020 22:34:38 +0200</lastBuildDate>
+    
+	<atom:link href="http://www.watbaktmarion.nl/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>taarten</title>
+      <link>http://www.watbaktmarion.nl/categories/taarten/</link>
+      <pubDate>Wed, 24 Jun 2020 22:34:38 +0200</pubDate>
+      
+      <guid>http://www.watbaktmarion.nl/categories/taarten/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>cakes</title>
+      <link>http://www.watbaktmarion.nl/categories/cakes/</link>
+      <pubDate>Tue, 23 Jun 2020 22:59:04 +0200</pubDate>
+      
+      <guid>http://www.watbaktmarion.nl/categories/cakes/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

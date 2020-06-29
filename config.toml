@@ -27,3 +27,6 @@ theme = "dream"
   darkLinkColor = "darkseagreen"
   darkNav = false 
   dark404 = false
+  enableRobotsTXT = true
+  googleAnalytics = "UA-171121891-1"
+  disqusShortname = "wat-bakt-marion"

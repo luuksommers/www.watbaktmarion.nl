@@ -9,8 +9,6 @@ tags: ["koffie of thee", "noten"]
 draft: false
 ---
 
-Heerlijk voor bij de koffie of thee, een luxe ontbijtje of bij de brunch.
-
 <!--more-->
 
 Net als mijn eigen roots liggen de roots van het eerste recept dat ik deel op mijn bakblog in Zweden. Ik ben geboren in Nyköping en hoewel ik vanaf mijn vierde in Nederland woon heb ik veel mooie herinneringen aan Zweden. Tijdens mijn jeugd gingen we er regelmatig op vakantie en maakte ik voor het eerst kennis met de Zweedse fika. Deze zijn later een grote inspiratiebron geworden voor mijn eigen bakcreaties. Veel mensen kennen wel de befaamde _kanelbullar_ (kaneelbroodjes) al is het maar van een bezoekje aan de IKEA. Minstens zo lekker zijn de _pistagebullar_ oftewel pistachebroodjes. Hierbij mijn variant van deze zalige luchtige zoete broodjes. Heerlijk voor bij de koffie of thee, een luxe ontbijtje of bij de brunch.

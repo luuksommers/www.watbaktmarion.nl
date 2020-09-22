@@ -2,6 +2,9 @@ baseURL = "http://www.watbaktmarion.nl/"
 languageCode = "en-us"
 title = "Wat bakt marion"
 theme = "dream" 
+enableRobotsTXT = true
+googleAnalytics = "UA-171121891-1"
+disqusShortname = "wat-bakt-marion"
 
 [params]
   #background = "#ddd"
@@ -25,8 +28,5 @@ theme = "dream"
 
   # dark mode
   darkLinkColor = "darkseagreen"
-  darkNav = false 
+  darkNav = true 
   dark404 = false
-  enableRobotsTXT = true
-  googleAnalytics = "UA-171121891-1"
-  disqusShortname = "wat-bakt-marion"
